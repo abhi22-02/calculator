@@ -1,0 +1,86 @@
+  .calbody {
+    height: 250px;
+    width: 300px;
+    background-color: #7b8484;
+    margin: 20px auto;
+    border-radius: 15px;
+    padding: 20px;
+  }
+
+  .screen {
+    background-color: #b6c989;
+    text-align: right;
+    width: 220px;
+    display: block;
+    margin: 0px auto;
+    font-size: 25px;
+    padding: 6px 11px;
+    font-family: "DS-Digital Bold", sans-serif;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-weight: 100;
+  }
+
+  .btn {
+    width: 50px;
+    text-align: center;
+    padding: 2px 0;
+    font-size: 20px;
+    margin: 5px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5px;
+  }
+
+  .btn:hover {
+    box-shadow: 0 0 3px #43ebb0;
+  }
+
+  .btn-con {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .btn1 {
+    background-color: #ebc209;
+  }
+
+  .btn2 {
+    color: white;
+    background-color: #303030;
+  }
+
+  .btn2:hover {
+    color: rgb(10, 1, 1);
+    background-color: #f1eaea;
+  }
+
+  .btn3 {
+    color: white;
+    background-color: #6f6f6f;
+  }
+
+  .btn4 {
+    color: white;
+    background-color: green;
+  }
+
+  .btn11 {
+    height: 70px;
+
+  }
+
+  .btnc{
+    color: white;
+    background-color: red;
+  }
+
+  .btnequal {
+    background-color: #e4b861;
+    border: #303030 2px solid;
+  }
